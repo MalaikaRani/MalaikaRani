@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Imran Malaika Rani
+# 💫 Hi 👋, I'm  Malaika Rani
 **Software Engineering Student || Currently working on frontend development**
 
 ## 🌐 Socials:
