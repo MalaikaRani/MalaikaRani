@@ -1,24 +1,93 @@
-# 💫 Hi 👋, I'm  Malaika Rani
-**Software Engineering Student || Currently working on frontend development**
+# 👋 Hi, I'm Malaika Rani
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rmalaika609@gmail.com) 
+### 💻 Frontend Developer | HTML • CSS • JavaScript
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MalaikaRani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=MalaikaRani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MalaikaRani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a passionate **Frontend Developer** who enjoys building clean, responsive, and user-friendly websites. I love turning ideas and designs into interactive web experiences.
 
 ---
-[![](https://komarev.com/ghpvc/?username=MalaikaRani&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+* 💻 Frontend Developer focused on modern web development
+* 🌱 Currently improving my JavaScript and frontend development skills
+* 🎨 Passionate about responsive and beautiful UI design
+* 📚 Always learning new technologies and best practices
+* 🤝 Open to collaborating on interesting frontend projects
+* ⚡ I enjoy turning creative ideas into functional websites
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 Portfolio Website
+
+A responsive personal portfolio website showcasing my skills, projects, and experience.
+
+**Tech:** HTML • CSS • JavaScript
+
+### 🛒 E-Commerce Website
+
+A responsive e-commerce frontend with product cards, navigation, and interactive UI elements.
+
+**Tech:** HTML • CSS • JavaScript
+
+### 🎨 Landing Page
+
+A modern and responsive landing page designed with a clean and professional user interface.
+
+**Tech:** HTML • CSS • JavaScript
+
+> 🚧 More projects coming soon...
+
+---
+
+## 📊 GitHub Stats
+
+![Malaika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malaikarani\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MalaikaraniE\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🎯 My Goals
+
+* 🚀 Become an advanced frontend developer
+* ⚛️ Learn React.js
+* 🎨 Improve UI/UX development skills
+* 🧩 Build more real-world projects
+* 🤝 Contribute to open-source projects
+* 🌍 Build impactful web experiences
+
+---
+
+## 📫 Connect With Me
+
+* 💼 GitHub: [@YOUR_USERNAME](https://github.com/Malaikarani)
+* 📧 Email: **[)**
+* 💻 Portfolio: **Coming Soon**
+
+---
+
+## 💡 Developer Quote
+
+> "Great websites are built with clean code, creativity, and a focus on the user."
+
+---
+
+⭐ **Thanks for visiting my profile!**
